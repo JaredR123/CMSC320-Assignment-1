@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: One area data science can be applied to is streaming services, since a company like Netflix or Disney can track data related to viewer watch habits to cultivate recommendations for said users based on their existing watch history and the watch history of viewers who watch similar programs.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of the repository while rebasing essentially rewrites it.

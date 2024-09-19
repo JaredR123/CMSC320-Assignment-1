@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: We might use Git to control various aspects of project development, including the division of labor through branching and forks and version control so that changes in source code between commits can be seen by project members at any time.
+

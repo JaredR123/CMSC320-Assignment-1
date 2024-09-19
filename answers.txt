@@ -1,11 +1,4 @@
-Q1: Why might be consider using git?
+Q4: What skills do you hope to improve during this course?
 
-Answer: We might use Git to control various aspects of project development, including the division of labor through branching and forks and version control so that changes in source code between commits can be seen by project members at any time.
+Answer: I am really hoping to improve my knowledge of important data science technologies, including chiefly pandas and SQL.
 
-Q2: What field could data science be applied to? Give and Example and how it might help
-
-Answer: One area data science can be applied to is streaming services, since a company like Netflix or Disney can track data related to viewer watch habits to cultivate recommendations for said users based on their existing watch history and the watch history of viewers who watch similar programs.
-
-Q3: What is the difference between merging and rebasing?
-
-Answer: Merging preserves the history of the repository while rebasing essentially rewrites it.
